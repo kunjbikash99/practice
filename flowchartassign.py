@@ -9,4 +9,5 @@ while i<7:
 '''''''
 x=20
 y=30
-print(x+y)
+z=3
+print(x+y+z)
