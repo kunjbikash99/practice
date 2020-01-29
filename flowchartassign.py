@@ -6,3 +6,7 @@ while i<7:
     else:
         i+=1
         continue
+'''''''
+x=20
+y=30
+print(x+y)
