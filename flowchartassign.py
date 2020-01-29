@@ -9,5 +9,5 @@ while i<7:
 '''''''
 x=20
 y=30
-z=3
+z=5
 print(x+y+z)
